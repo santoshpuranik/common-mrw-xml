@@ -5,6 +5,10 @@
       <id>TYPE</id>
       <default>NA</default>
     </attribute>
+    <attribute>
+      <id>SLOT_INDEX</id>
+      <default>0</default>
+    </attribute>
     <instance_name>connector</instance_name>
     <is_root>true</is_root>
     <parent>connector</parent>
